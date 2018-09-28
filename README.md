@@ -12,3 +12,5 @@ Dependencies:
   Unix shell, FFMPEG, Perl
   
 This silence can be used in web players based on MSE, such as SLDP Player https://softvelum.com/player/web/ 
+
+You can read more info about SLDP Protocol here: https://softvelum.com/sldp/ 

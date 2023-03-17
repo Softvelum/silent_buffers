@@ -13,4 +13,4 @@ Dependencies:
   
 This silence can be used in web players based on MSE, such as SLDP Player https://softvelum.com/player/web/ 
 
-You can read more info about SLDP Protocol here: https://softvelum.com/sldp/ 
+You can read more info about [SLDP low latency protocol](https://softvelum.com/sldp/). 
